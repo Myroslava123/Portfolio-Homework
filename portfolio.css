@@ -37,11 +37,25 @@
     line-height: 27px;
     padding: 15px 30px;
   }
-  
+
   :root {
     --heading-font-family: "Playfair Display", serif;
     --default-font-family: "Poppins", sans-serif;
     --branding-color: #6c63ff;
     --secondary-color: #f9f7fe;
   }
-   
+
+.btn-branding-outline {
+  color: var(--branding-color);
+  border: 1px solid var(--branding-color);
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
+
+.ramka {
+  padding: 120px 60px;
+  padding: 0;
+  text-align: center;
+}
