@@ -59,3 +59,20 @@
   padding: 0;
   text-align: center;
 }
+.text-obraz {
+  padding: 160px 20px;
+  text-align: center;
+}
+
+.text-obraz  h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+
+.text-obraz  h2 {
+  font-size: 18px;
+  font-family: var(--default-font-family);
+}
+
+.about-section-content {
+  margin: 30px;
