@@ -6,7 +6,13 @@
     color: black;
     font-family: var(--heading-font-family);
     font-weight: bold;
+    
+  }
+  h1 {
     font-size: 96px;
+  }
+  h2 {
+    font-size: 64px;
   }
   
   .osoba {
@@ -76,3 +82,13 @@
 
 .about-section-content {
   margin: 30px;
+}
+
+   h1 {
+    font-size: 64px;
+    line-height: 86px;
+   }
+    h3 {
+      font-size: 44px;
+      line-height: 86px;
+    }
